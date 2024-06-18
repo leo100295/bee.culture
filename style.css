@@ -34,27 +34,12 @@ body{
         flex: 1; 
         order: 2;
     }
-
-.image img {
-    max-width: 100%; 
-    height: auto; 
-    display: block; 
-}
     
     .description {
         flex: 1; 
         order: 1;
         padding: 0 20px; 
     }
-
-.description h2 {
-    font-size: 1.5rem; 
-    margin-top: 0; 
-}
-
-.description p {
-    line-height: 1.6; 
-}
 
     
 
