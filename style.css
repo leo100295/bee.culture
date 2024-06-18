@@ -86,3 +86,22 @@ h2 {
 .description-alt p {
     line-height: 1.6;
 }
+
+.custom-title-description {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.custom-title-description h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.custom-description {
+    text-align: justify;
+}
+
+.custom-description p {
+    line-height: 1.6;
+}
