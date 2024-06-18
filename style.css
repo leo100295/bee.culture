@@ -33,7 +33,6 @@ body{
 
 .image {
     flex: 1;
-    order: 2; 
 }
 
 .image img {
@@ -44,7 +43,6 @@ body{
 
 .description {
     flex: 1;
-    order: 1; 
     padding: 0 20px;
 }
 
