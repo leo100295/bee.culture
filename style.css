@@ -56,3 +56,33 @@ body{
 .description p {
     line-height: 1.6;
 }
+
+.image-description-alt {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.image-alt {
+    float: left; 
+    margin-right: 20px; 
+}
+
+.image-alt img {
+    max-width: 100%; 
+    height: auto;
+    display: block;
+}
+
+.description-alt {
+    overflow: hidden; 
+}
+
+.description-alt p {
+    line-height: 1.6;
+}
